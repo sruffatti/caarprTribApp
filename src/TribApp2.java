@@ -31,7 +31,7 @@ public class TribApp2 {
 		Scanner in = new Scanner(System.in);
 		String url = "";
 		String formattedAddress = "";
-		String apiKey = "AIzaSyDBMTCxp7f3iz-tM4kDH2mFpOMlDwDsGG0";
+		String apiKey = "";
 		double lat = 0;
 		double lng = 0;
 		String alderman;
